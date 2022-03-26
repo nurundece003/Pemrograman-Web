@@ -1,2 +1,2 @@
-# web-html
-Hai kali ini saya membuat web menggunakan 2 cara yaitu dengan HTML + CSS (dimsumweb) dan juga dengan cara HTML+CSS+Boostrap (buatanmamiweb)
+# Pemrograman Web
+Hai hai hai perkenalkan nama saya Nurun Decerachmi Emba dengan NIM 20050974003 dari prodi Pendidikan Teknologi Informasi kelas 2020A. Repository ini merupakan kumpulan tugas tugas yang dibuat untuk memenuhi tugas mata kuliah Pemrograman Web.
